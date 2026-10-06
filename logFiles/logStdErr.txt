@@ -1,0 +1,20 @@
+min;(-0.24574100971221924, 0.0, -0.1450749933719635),
+max;(0.24574100971221924, 1.0002168416976929, 0.1450749933719635)
+height;1.0002168416976929
+min;(-0.24574100971221924, 0.0, -0.1450749933719635),
+max;(0.24574100971221924, 1.0002168416976929, 0.1450749933719635)
+modelName;aBirthDayCupCake, MeshNameList;['tmpclsl_kqt.ply']
+WARNING;tmpclsl_kqt_ply doesNot Exist in MeshNameList;['tmpclsl_kqt.ply']. Apple might have Replaced '.ply' to '_ply'.
+modelName;aBirthDayCupCake;min;(-0.849901556968689, -0.9919878840446472, -0.8537065982818604),
+max;(0.8496840596199036, 0.9858565926551819, 0.8498474955558777)
+modelName;aBirthDayCupCake;height;1.977844476699829
+modelName;aPenguin, MeshNameList;['tmp3l_3e6fb.ply']
+WARNING;tmp3l_3e6fb_ply doesNot Exist in MeshNameList;['tmp3l_3e6fb.ply']. Apple might have Replaced '.ply' to '_ply'.
+modelName;aPenguin;min;(-0.6677786111831665, -0.9908522367477417, -0.7076867818832397),
+max;(0.6664571762084961, 0.9899327754974365, 0.6923332810401917)
+modelName;aPenguin;height;1.9807850122451782
+modelName;aSpaceShip, MeshNameList;['tmplzm23orf.ply']
+WARNING;tmplzm23orf_ply doesNot Exist in MeshNameList;['tmplzm23orf.ply']. Apple might have Replaced '.ply' to '_ply'.
+modelName;aSpaceShip;min;(-0.988919198513031, -0.323608934879303, -0.7131941318511963),
+max;(0.9912577271461487, 0.3228185772895813, 0.7120691537857056)
+modelName;aSpaceShip;height;0.6464275121688843
